@@ -1,0 +1,58 @@
+export const serviceAreas = [
+  {
+    region: "Dallas & surrounding cities",
+    cities: [
+      "Dallas",
+      "Irving",
+      "Richardson",
+      "Garland",
+      "Mesquite",
+      "Rowlett",
+      "Duncanville",
+      "DeSoto",
+      "Cedar Hill",
+      "Lancaster",
+    ],
+  },
+  {
+    region: "Fort Worth & Tarrant County",
+    cities: [
+      "Fort Worth",
+      "Arlington",
+      "Grand Prairie",
+      "Mansfield",
+      "Euless",
+      "Bedford",
+      "Hurst",
+      "Grapevine",
+      "Southlake",
+      "Keller",
+    ],
+  },
+  {
+    region: "North Dallas & Collin County",
+    cities: [
+      "Plano",
+      "Frisco",
+      "McKinney",
+      "Allen",
+      "Prosper",
+      "Wylie",
+      "Murphy",
+      "The Colony",
+    ],
+  },
+  {
+    region: "Denton & nearby communities",
+    cities: [
+      "Denton",
+      "Lewisville",
+      "Flower Mound",
+      "Carrollton",
+      "Coppell",
+      "Little Elm",
+      "Corinth",
+      "Argyle",
+    ],
+  },
+];
